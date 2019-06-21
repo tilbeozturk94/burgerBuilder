@@ -9,9 +9,3 @@
 .Logo img {
   height: 100%;
 }
-
-@media (max-width: 500px) {
-  .Logo {
-    margin-bottom: 32px;
-  }
-}
